@@ -8,6 +8,14 @@ body{
     text-align: center;
 }
 
+
+
+
+.time{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
 .power{
     text-align: center;
     font-size: 15px;
@@ -23,9 +31,7 @@ body{
 }
 
 
-.Supervisor{
-  
-}
+
 
 
 
@@ -64,8 +70,11 @@ body{
   }
 
   .card h3 {
-    font-size: 18px;
-    margin-bottom: 10px;
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: #cc1212;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
   }
 
   .card p {
